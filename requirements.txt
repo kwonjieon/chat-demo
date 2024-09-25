@@ -6,3 +6,5 @@ starlette==0.27.0
 redis==4.6.0
 python-dotenv
 requests
+aiohttp
+asyncio
